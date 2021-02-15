@@ -9,7 +9,9 @@
 
 #### Milestone 1.
 &nbsp;&nbsp;&nbsp;&nbsp; - Add necessary files and directories listed in Milestone 1
+
 &nbsp;&nbsp;&nbsp;&nbsp; - Choose an appropriate dataset and load in the data
+
 &nbsp;&nbsp;&nbsp;&nbsp; - Describe project topic and dataset
 
 &emsp;
