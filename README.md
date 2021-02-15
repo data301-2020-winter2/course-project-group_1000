@@ -32,19 +32,19 @@ The dataset ressembled demographic statistics from the US Census Bureau and simu
 
 
 ### *Attributes*
-1. Age
+1. **Age**
    - *[Numerical Discrete]* An integer that denotes the age of each patient.
-2. Sex
+2. **Sex**
     - *[Categorical Nominal]* A String that denotes patients gender (male or female).
-3. BMI
+3. **BMI**
     - *[Numerical Continuous]* The body mass index. Indicates whether the patient is overweight or underweight in regards to his/her height.
-4. Children
+4. **Children**
    - *[Numerical Discrete]* Provides the number of children covered by the medical insurance.
-5. Smoker
+5. **Smoker**
    - *[Categorical Nominal]* Indicates whether the beneficiary smoke cigarettes.
-6. region
+6. **region**
     - *[Categorical Nominal]* Place of residence in the US. Divided into four regions: northeast, northwest, southeast, southwest.
-7. Medical Charges
+7. **Medical Charges**
    - *[Numerical Continuous]* Indicates the beneficiary's annual medical expenses.
 
 ### *Purpose*
