@@ -19,7 +19,7 @@
 
 ## Describe your topic/interest in about 150-200 words (topic description)
 
-{Add your stuff here}
+Our chosen topic is derived from a dataset of medical costs from health insurance providers along with the personal data of the person being insured. The dataset includes both quantitative and categorical data. Quantitative data includes age, BMI, medical charges and number of children and categorical data includes the gender, whether they smoke, and the region they are located. With quantitative data, we can discover correlations by plotting graphs and see if and how each attribute is related to each other and derive a quantitative solution to prove this reasoning. Categorical data can also be used to see the certain characteristics the people insured have and categorize them into groups to explain explicitly the relationship between the characteristics and their medical bills. Charts can be useful to demonstrate categorical relationships and from this dataset we can discover the way health insurance providers determine the amount of coverage and potentially how a computer system can be developed to calculate and predict the risks of the person insured.
 
 &emsp;
 
