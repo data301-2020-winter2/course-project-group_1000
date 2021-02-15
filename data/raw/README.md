@@ -1,3 +1,7 @@
-README file in data/raw directory
+## *Raw Data Directory*
 
-**note: raw data should go in this directory
+This directory includes all unctouched data used during this project
+
+---
+Currently in directory:
+&nbsp;&nbsp;&nbsp;&nbsp; - Medical_Cost.csv
