@@ -1,11 +1,11 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=361469&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Group 1000 - Medical Expenses Analysis with Insurance Cost Projection
 
-- Your title can change over time.
+
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+Milestone 1 - Choose an appropriate dataset and load in data.
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -18,9 +18,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Ryan S.H. Lu: I have a feeling that this project is going to be mind-blowing.
 - Person 3: one sentence about you!
 
 ## References
 
-{Add your stuff here}
+Source:
+[GitHub]https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
+[Kaggle]https://www.kaggle.com/mirichoi0218/insurance
