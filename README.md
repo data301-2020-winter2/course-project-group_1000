@@ -67,7 +67,7 @@ All of the attributes mentioned above provide substantial insights to how each f
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Hayward Chow: Not exactly knowledgeable and educated about data analysis but I'm excited to learn a lot through this project.
 - Ryan S.H. Lu: I have a feeling that this project is going to be *mind-blowing*.
 - Person 3: one sentence about you!
 
