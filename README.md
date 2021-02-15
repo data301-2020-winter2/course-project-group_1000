@@ -49,6 +49,8 @@ The dataset ressembled demographic statistics from the US Census Bureau and simu
 7. **Medical Charges**
    - *[Numerical Continuous]* Indicates the beneficiary's annual medical expenses.
 
+&nbsp;
+
 ### *Purpose*
 All of the attributes mentioned above provide substantial insights to how each factors may relate to one's medical expenses. Our goal of this analysis builds on top of the relationship among these attributes; with the help of data analysis tools, we seek to visualize the correlation of each attributes and medical cost. In return, we may be able to estimate one's insurance premium based on our findings.
 
