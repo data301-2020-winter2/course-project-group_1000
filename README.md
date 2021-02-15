@@ -22,8 +22,9 @@
 
 ## Dataset
 
-> #### *Acknowledgements: The dataset used in this project originated from [**Machine Learning with R**](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/ref=sr_1_1?dchild=1&keywords=machine+learning+with+r+brett&qid=1613374318&sr=8-1) - a widely-acclaimed machine learning book by Brett Lantz - as a practical example for "predicting medical expenses using linear regression" on pg. 182.*
-> #### * The original dataset [insurance.csv] was later released in the public domain by Miri Choi as [Medical_Cost.csv] in Febuary 2018.*
+> #### Acknowledgements: The dataset used in this project originated from [**Machine Learning with R**](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/ref=sr_1_1?dchild=1&keywords=machine+learning+with+r+brett&qid=1613374318&sr=8-1) - a widely-acclaimed machine learning book by Brett Lantz - as a practical example for "predicting medical expenses using linear regression" on pg. 182.
+
+> #### The original dataset [insurance.csv] was later released in the public domain by Miri Choi as [Medical_Cost.csv] in Febuary 2018.
 
 ---
 
