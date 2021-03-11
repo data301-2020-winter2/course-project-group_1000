@@ -1,4 +1,13 @@
 README file in Siqiao's directory
+**Siqiao Yuan's directory**
+---
+*Milestone 1:*
+---
+*Milestone 2:*
+---
+
+
+
 
 **note: 
     Teammate should have their draft or work in progress Jupyter Notebooks stored here. 
